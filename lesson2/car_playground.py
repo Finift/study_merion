@@ -1,5 +1,5 @@
-from car_class import Car
-from engine_class import Engine
+from lesson2.classes.car import Car
+from lesson2.classes.engine import Engine
 
 car1 = Car()
 car1.brand = "BMW"

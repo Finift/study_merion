@@ -1,4 +1,4 @@
-from character_class import Character
+from lesson2.classes.character import Character
 
 char1 = Character()
 char1.balance = 2

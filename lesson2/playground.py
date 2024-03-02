@@ -1,4 +1,4 @@
-from lesson1.class_user import User
+from lesson2.classes.user import User
 
 num1 = 10
 num2 = 20
