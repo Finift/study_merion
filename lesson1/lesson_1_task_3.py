@@ -1,0 +1,3 @@
+user_name = input("Please, write your name")
+print("Hello,", user_name)
+
